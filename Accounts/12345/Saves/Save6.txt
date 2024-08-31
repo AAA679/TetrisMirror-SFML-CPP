@@ -1,0 +1,9 @@
+Time  :empty
+Score :0
+Width :0
+Height:0
+Speed :0
+Magic :0
+CBID  :0
+NBID  :0
+Table :  

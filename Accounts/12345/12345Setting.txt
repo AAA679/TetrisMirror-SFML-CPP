@@ -1,0 +1,7 @@
+Password:   3654492059533663775
+MoveLeft:   Left
+MoveRight:  Right
+Spin:       Up
+Speed:      Down
+DropBotton: Space
+BestScore:  1800
